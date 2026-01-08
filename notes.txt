@@ -1,2 +1,2 @@
 HI
-Currently working on the new feature branch
+It's new line than the dev branch
