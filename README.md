@@ -2,6 +2,7 @@
 You are a developer working on a small project using Git and GitHub to manage source control and collaboration.
 Your task is to complete the following steps in order, following proper Git workflow practices.
 Phase 1: Project Setup
+
 **Create a new GitHub repository using any name you choose.**
 **Copy the repository to your local machine.**
 **Navigate into the project directory on your computer.**
